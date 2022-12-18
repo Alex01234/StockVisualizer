@@ -20,9 +20,13 @@ The same formula is used as for 50-day SMA, but *n*=200 <br />
 #### Example
 Insert screenshot and describe TODO
 
+---
+
 ### 50-day and 200-day SMA
 #### Example
 Insert screenshot and describe TODO
+
+---
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
 #### Description and formula
@@ -35,6 +39,8 @@ https://thetradingbible.com/bollinger-bands-trading-strategy <br />
 #### Example
 Insert screenshot and describe TODO
 
+---
+
 ### Chandelier Exit (long) 22 day
 #### Description and formula
 
@@ -46,14 +52,20 @@ https://en.wikipedia.org/wiki/Average_true_range <br />
 #### Example
 Insert screenshot and describe TODO
 
+---
+
 ### Chandelier Exit (short) 22 day
 #### Description and formula
 #### Example
 Insert screenshot and describe TODO
 
+---
+
 ### Chandelier Exit (long and short) 22 day
 #### Example
 Insert screenshot and describe TODO
+
+---
 
 ## Testing
 TODO
