@@ -7,8 +7,8 @@ TODO
 #### Description and formula
 Describe, insert images of formulas, reference sources
 
-Sources: <br />
-a
+Source: <br />
+https://www.investopedia.com/terms/s/sma.asp
 #### Example
 Insert screenshot and describe
 
