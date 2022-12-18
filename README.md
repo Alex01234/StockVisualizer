@@ -49,6 +49,8 @@ ATR at time *t* = ((ATR<sub>*t*-1</sub> x (22-1)) + TR<sub>*t*</sub>) / 22 <br /
 Where TR = True Range <br />
 TR at time *t* = greatest value of the following: <br />
 High price at time *t* - Low price at time *t* <br />
+Absolute value(High price a time *t* - Closing price at time *t-1*) <br />
+Absolute value(Low price a time *t* - Closing price at time *t-1*) <br />
 
 Sources: <br />
 https://school.stockcharts.com/doku.php?id=technical_indicators:chandelier_exit <br />
