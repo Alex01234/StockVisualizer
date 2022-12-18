@@ -43,6 +43,7 @@ Insert screenshot and describe TODO
 
 ### Chandelier Exit (long) 22 day
 #### Description and formula
+The Chandelier Exit (long) at time *t* = highest high in the 22 days prior to date *t* - ATR(22) x 3
 
 Sources: <br />
 https://school.stockcharts.com/doku.php?id=technical_indicators:chandelier_exit <br />
