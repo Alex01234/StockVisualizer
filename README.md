@@ -30,3 +30,7 @@ TODO
 ### Chandelier Exit (long and short) 22 day
 #### Description and formula
 #### Example
+
+## Testing
+
+## Libraries and packages
