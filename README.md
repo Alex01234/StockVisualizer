@@ -6,7 +6,10 @@ TODO
 ### 50-day Simple Moving Average (SMA)
 #### Description and formula
 The 50-day SMA is the moving average of the closing prices of the 50 days prior to any given date. In the formula below, *n*=50 <br />
-![image](https://user-images.githubusercontent.com/39235916/208290242-4b0b66d5-7a68-4352-afff-db710fcabd05.png) <br />
+SMA= (A<sub>1</sub> + A<sub>2</sub> + A<sub>3</sub> + ... + A<sub>n</sub>)/*n* <br />
+Where: <br />
+A<sub>n</sub> = the closing price of an asset at period *n* <br />
+*n* = the number of total periods
 Source: <br />
 https://www.investopedia.com/terms/s/sma.asp
 #### Example
