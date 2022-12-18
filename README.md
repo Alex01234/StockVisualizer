@@ -2,4 +2,4 @@
 ## Overiew
 TODO
 
-##Techical indicators
+## Techical indicators
