@@ -24,6 +24,11 @@ Insert screenshot and describe TODO
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
 #### Description and formula
+
+Sources: <br />
+https://www.investopedia.com/terms/b/bollingerbands.asp 
+https://www.barchart.com/education/technical-indicators/moving_standard_deviation
+https://thetradingbible.com/bollinger-bands-trading-strategy
 #### Example
 Insert screenshot and describe TODO
 
