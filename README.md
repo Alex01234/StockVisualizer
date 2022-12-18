@@ -47,7 +47,8 @@ The Chandelier Exit (long) at time *t* = highest high in the 22 days prior to da
 Where ATR = Average True Range <br />
 ATR at time *t* = ((ATR<sub>*t*-1</sub> x (22-1)) + TR<sub>*t*</sub>) / 22 <br />
 Where TR = True Range <br />
-TR = 
+TR at time *t* = greatest value of the following: <br />
+High price at time *t* - Low price at time *t* <br />
 
 Sources: <br />
 https://school.stockcharts.com/doku.php?id=technical_indicators:chandelier_exit <br />
