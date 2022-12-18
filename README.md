@@ -5,7 +5,9 @@ TODO
 ## Techical indicators
 ### 50-day Simple Moving Average (SMA)
 #### Description and formula
+Describe, insert images of formulas, reference sources
 #### Example
+Insert screenshot and describe
 
 ### 200-day SMA
 #### Description and formula
