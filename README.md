@@ -14,7 +14,7 @@ Insert screenshot and describe TODO
 
 ### 200-day SMA
 #### Description and formula
-The same formula is used as for 50-day SMA, but n=200 <br />
+The same formula is used as for 50-day SMA, but *n*=200 <br />
 #### Example
 Insert screenshot and describe TODO
 
