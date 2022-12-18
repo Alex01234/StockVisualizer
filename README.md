@@ -37,9 +37,9 @@ Upper band = SMA(22) + (SD x 2) <br />
 Lower band = SMA(22) <br />
 Middle band = SMA(22) - (SD x 2) <br />
 Where SMA(22) = The simple moving average of the closing price of the 22 days prior to the current date <br />
-SD = sqrt((SUM((x-y)^2))/22)
-x = closing price
-y = average closing of period
+SD = sqrt((SUM((x-y)^2))/22) <br />
+x = closing price <br />
+y = average closing of period <br />
 
 Sources: <br />
 https://www.barchart.com/education/technical-indicators/moving_standard_deviation <br />
