@@ -26,9 +26,9 @@ Insert screenshot and describe TODO
 #### Description and formula
 
 Sources: <br />
-https://www.investopedia.com/terms/b/bollingerbands.asp 
-https://www.barchart.com/education/technical-indicators/moving_standard_deviation
-https://thetradingbible.com/bollinger-bands-trading-strategy
+https://www.investopedia.com/terms/b/bollingerbands.asp <br />
+https://www.barchart.com/education/technical-indicators/moving_standard_deviation <br />
+https://thetradingbible.com/bollinger-bands-trading-strategy <br />
 #### Example
 Insert screenshot and describe TODO
 
