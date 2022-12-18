@@ -14,10 +14,10 @@ Insert screenshot and describe
 
 ### 200-day SMA
 #### Description and formula
+The same formula is used as for 50-day SMA, but n=200 <br />
 #### Example
 
 ### 50-day and 200-day SMA
-#### Description and formula
 #### Example
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
