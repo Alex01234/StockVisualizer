@@ -7,8 +7,8 @@ TODO
 #### Description and formula
 Describe, insert images of formulas, reference sources
 
-Sources:\
-
+Sources:
+a
 #### Example
 Insert screenshot and describe
 
