@@ -52,8 +52,10 @@ High price at time *t* - Low price at time *t* <br />
 Absolute value(High price a time *t* - Closing price at time *t-1*) <br />
 Absolute value(Low price a time *t* - Closing price at time *t-1*) <br />
 
-The first ATR value is calculated with the following formula: 
-ATR = 1/*n*(SUM(*TR*<sub>*i*</sub>)|*i*=1 to *n*)
+The first ATR value is calculated with the following formula: <br />
+ATR = 1/*n*(SUM(*TR*<sub>*i*</sub>)|*i*=1 to *n*) <br />
+
+The first ATR value in this implementation is always the date prior to the start date selected by the user.
 
 Sources: <br />
 https://school.stockcharts.com/doku.php?id=technical_indicators:chandelier_exit <br />
@@ -67,6 +69,8 @@ Insert screenshot and describe TODO
 
 ### Chandelier Exit (short) 22 day
 #### Description and formula
+The Chandelier Exit (short) at time *t* = lowest low in the 22 days prior to date *t* - ATR<sub>*t*</sub>(n) x 3 <br />
+See formula and sources in above section for Chandelier Exit (long) 22 day 
 #### Example
 Insert screenshot and describe TODO
 
