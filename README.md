@@ -14,7 +14,7 @@ Source: <br />
 https://www.investopedia.com/terms/s/sma.asp
 #### Example
 Insert screenshot and describe TODO
-
+2022-03-01 - 2022-12-17 CAT 
 ---
 
 ### 200-day SMA
@@ -22,13 +22,13 @@ Insert screenshot and describe TODO
 The same formula is used as for 50-day SMA, but *n*=200 <br />
 #### Example
 Insert screenshot and describe TODO
-
+2022-03-01 - 2022-12-17 CAT 
 ---
 
 ### 50-day and 200-day SMA
 #### Example
 Insert screenshot and describe TODO
-
+2022-03-01 - 2022-12-17 CAT 
 ---
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
@@ -46,7 +46,7 @@ https://www.barchart.com/education/technical-indicators/moving_standard_deviatio
 https://thetradingbible.com/bollinger-bands-trading-strategy <br />
 #### Example
 Insert screenshot and describe TODO
-
+2022-01-01 - 2022-12-17 LMT 
 ---
 
 ### Chandelier Exit (long) 22 day
@@ -72,7 +72,7 @@ https://www.fidelity.com/learning-center/trading-investing/technical-analysis/te
 https://en.wikipedia.org/wiki/Average_true_range <br />
 #### Example
 Insert screenshot and describe TODO
-
+2021-09-01 2022-06-01 CVX
 ---
 
 ### Chandelier Exit (short) 22 day
@@ -81,13 +81,13 @@ The Chandelier Exit (short) at time *t* = lowest low in the 22 days prior to dat
 See formula and sources in above section for Chandelier Exit (long) 22 day 
 #### Example
 Insert screenshot and describe TODO
-
+2022-01-01 - 2022-12-17 PG 
 ---
 
 ### Chandelier Exit (long and short) 22 day
 #### Example
 Insert screenshot and describe TODO
-
+2022-01-01 - 2022-12-17 KO
 ---
 
 ## Testing
