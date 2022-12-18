@@ -43,7 +43,7 @@ Insert screenshot and describe TODO
 
 ### Chandelier Exit (long) 22 day
 #### Description and formula
-The Chandelier Exit (long) at time *t* = highest high in the 22 days prior to date *t* - ATR(22) x 3 <br />
+The Chandelier Exit (long) at time *t* = highest high in the 22 days prior to date *t* - ATR<sub>*t*</sub>(22) x 3 <br />
 Where ATR = Average True Range <br />
 ATR at time *t* = ((ATR<sub>*t*-1</sub> x (22-1)) + TR<sub>*t*</sub>) / 22 <br />
 Where TR = True Range <br />
