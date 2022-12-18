@@ -10,32 +10,39 @@ The 50-day SMA is the moving average of the closing prices of the 50 days prior 
 Source: <br />
 https://www.investopedia.com/terms/s/sma.asp
 #### Example
-Insert screenshot and describe
+Insert screenshot and describe TODO
 
 ### 200-day SMA
 #### Description and formula
 The same formula is used as for 50-day SMA, but n=200 <br />
 #### Example
+Insert screenshot and describe TODO
 
 ### 50-day and 200-day SMA
 #### Example
+Insert screenshot and describe TODO
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
 #### Description and formula
 #### Example
+Insert screenshot and describe TODO
 
 ### Chandelier Exit (long) 22 day
 #### Description and formula
 #### Example
+Insert screenshot and describe TODO
 
 ### Chandelier Exit (short) 22 day
 #### Description and formula
 #### Example
+Insert screenshot and describe TODO
 
 ### Chandelier Exit (long and short) 22 day
-#### Description and formula
 #### Example
+Insert screenshot and describe TODO
 
 ## Testing
+TODO
 
 ## Libraries and packages
+TODO
