@@ -33,10 +33,10 @@ Insert screenshot and describe TODO
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
 #### Description and formula
-Upper band = SMA(22) + (SD x 2) <br />
-Lower band = SMA(22) <br />
-Middle band = SMA(22) - (SD x 2) <br />
-Where SMA(22) = The simple moving average of the closing price of the 22 days prior to the current date <br />
+Upper band = SMA(20) + (SD x 2) <br />
+Lower band = SMA(20) <br />
+Middle band = SMA(20) - (SD x 2) <br />
+Where SMA(20) = The simple moving average of the closing price of the 20 days prior to the current date <br />
 SD = sqrt((SUM((x-y)^2))/22) <br />
 x = closing price <br />
 y = average closing of period <br />
