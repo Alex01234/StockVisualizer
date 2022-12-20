@@ -77,7 +77,7 @@ Insert screenshot and describe TODO
 
 ### Chandelier Exit (short) 22 day
 #### Description and formula
-The Chandelier Exit (short) at time *t* = lowest low in the 22 days prior to date *t* - ATR<sub>*t*</sub>(n) x 3 <br />
+The Chandelier Exit (short) at time *t* = lowest low in the 22 days prior to date *t* + ATR<sub>*t*</sub>(n) x 3 <br />
 See formula and sources in above section for Chandelier Exit (long) 22 day 
 #### Example
 Insert screenshot and describe TODO
