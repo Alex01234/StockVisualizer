@@ -1,6 +1,10 @@
 # StockVisualizer
 ## Overiew
-TODO
+This application is a desktop application written in C# and .NETCore. The application has functionality to visualize stock prices, using the [Alpha Vantage API](https://www.alphavantage.co/), and calculate multiple technical overlay indicators. The user can choose the start date, end date, supply an API key to Alpha Vantage and a stock symbol to retrieve and display the data. Furthermore, the user can choose from a range of technical indicators. These technical indicators are 50-day Simple Moving Average (SMA), 200-day SMA, 50-day and 200-day SMA combined, Bollinger bands calculated using 20-day SMA and 2 standard deviations, Chandelier exit (long) 22 day, Chandelier exit (short) 22 day and Chandelier exit long and short combined. 
+
+The application displays a Open-high-low-close (OHLC) chart of the stock prices on a daily basis. Additionally, the trading volume is displayed below the OHLC chart. The application also shows detailed data on a daily basis as the user hovers with the cursor on the dates in the chart, both in the OHLC chart and the volume chart. See the video below for demonstration.
+
+As mentioned, the [Alpha Vantage API](https://www.alphavantage.co/documentation/) has been used for the stock data, and the package [LiveCharts](https://www.nuget.org/packages/LiveCharts) for the chart functionality. 
 
 ---
 ## Techical indicators
