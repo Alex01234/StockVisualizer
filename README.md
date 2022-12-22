@@ -6,6 +6,8 @@ The application displays a Open-high-low-close (OHLC) chart of the stock prices 
 
 As mentioned, the [Alpha Vantage API](https://www.alphavantage.co/documentation/) has been used for the stock data, and the package [LiveCharts](https://www.nuget.org/packages/LiveCharts) for the chart functionality. 
 
+
+
 ---
 ## Techical indicators
 ### 50-day Simple Moving Average (SMA)
