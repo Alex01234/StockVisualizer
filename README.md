@@ -38,8 +38,8 @@ The same formula is used as for 50-day SMA, but *n*=200 <br />
 ### Bollinger bands, 20-day SMA, 2 standard deviations
 #### Description and formula
 Upper band = SMA(20) + (SD x 2) <br />
-Lower band = SMA(20) <br />
-Middle band = SMA(20) - (SD x 2) <br />
+Middle band = SMA(20) <br />
+Lower band = SMA(20) - (SD x 2) <br />
 Where SMA(20) = The simple moving average of the closing price of the 20 days prior to the current date <br />
 SD = sqrt((SUM((x-y)^2))/22) <br />
 x = closing price <br />
