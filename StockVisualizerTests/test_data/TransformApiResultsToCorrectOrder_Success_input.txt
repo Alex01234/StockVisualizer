@@ -1,0 +1,51 @@
+{
+    "Meta Data": {
+        "1. Information": "Daily Time Series with Splits and Dividend Events",
+        "2. Symbol": "BRK.A",
+        "3. Last Refreshed": "2022-12-15",
+        "4. Output Size": "Full size",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2022-12-15": {
+            "1. open": "464249.4588",
+            "2. high": "464249.46",
+            "3. low": "452974.725",
+            "4. close": "457460.0",
+            "5. adjusted close": "457460.0",
+            "6. volume": "3376",
+            "7. dividend amount": "0.0000",
+            "8. split coefficient": "1.0"
+        },
+        "2022-12-14": {
+            "1. open": "473079.4588",
+            "2. high": "477699.99",
+            "3. low": "466451.565",
+            "4. close": "468020.0",
+            "5. adjusted close": "468020.0",
+            "6. volume": "2907",
+            "7. dividend amount": "0.0000",
+            "8. split coefficient": "1.0"
+        },
+        "2022-12-13": {
+            "1. open": "482502.75",
+            "2. high": "483393.0",
+            "3. low": "469409.67",
+            "4. close": "471999.99",
+            "5. adjusted close": "471999.99",
+            "6. volume": "3043",
+            "7. dividend amount": "0.0000",
+            "8. split coefficient": "1.0"
+        },
+        "2022-12-12": {
+            "1. open": "465649.9988",
+            "2. high": "471234.99",
+            "3. low": "461795.68",
+            "4. close": "471079.96",
+            "5. adjusted close": "471079.96",
+            "6. volume": "3864",
+            "7. dividend amount": "0.0000",
+            "8. split coefficient": "1.0"
+        }
+	}
+}
