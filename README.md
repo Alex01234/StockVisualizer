@@ -42,7 +42,7 @@ Sources: <br />
 https://www.barchart.com/education/technical-indicators/moving_standard_deviation <br />
 https://thetradingbible.com/bollinger-bands-trading-strategy <br />
 #### Example
-
+![Bollinger_bands_sample](https://user-images.githubusercontent.com/39235916/209172574-db5cfa67-1a43-42a0-a3a2-5b7618b6b8fe.PNG)
 ---
 
 ### Chandelier Exit (long) 22 day
@@ -67,8 +67,7 @@ https://school.stockcharts.com/doku.php?id=technical_indicators:average_true_ran
 https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/atr <br />
 https://en.wikipedia.org/wiki/Average_true_range <br />
 #### Example
-Insert screenshot and describe TODO
-2021-09-01 2022-06-01 CVX
+![Chandelier_exit_long_sample](https://user-images.githubusercontent.com/39235916/209172632-43a8ab1b-d71f-4e87-8865-ac8070dd5c15.PNG)
 ---
 
 ### Chandelier Exit (short) 22 day
@@ -76,14 +75,12 @@ Insert screenshot and describe TODO
 The Chandelier Exit (short) at time *t* = lowest low in the 22 days prior to date *t* + ATR<sub>*t*</sub>(n) x 3 <br />
 See formula and sources in above section for Chandelier Exit (long) 22 day 
 #### Example
-Insert screenshot and describe TODO
-2022-01-01 - 2022-12-17 PG 
+![Chandelier_exit_short_sample](https://user-images.githubusercontent.com/39235916/209172670-d1c64233-2140-4241-b40e-0b64ada7a3dc.PNG)
 ---
 
 ### Chandelier Exit (long and short) 22 day
 #### Example
-Insert screenshot and describe TODO
-2022-01-01 - 2022-12-17 KO
+![Chandelier_exit_long_and_short_sample](https://user-images.githubusercontent.com/39235916/209172700-27de119c-7d6f-4bc3-9771-84edf7bb8bfe.PNG)
 ---
 
 ## Testing
