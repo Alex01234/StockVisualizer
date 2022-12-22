@@ -89,7 +89,11 @@ See formula and sources in above section for Chandelier Exit (long) 22 day
 ---
 
 ## Testing
-TODO
+Unit testing has been done for the class StockDataHandler.cs, which retrieves the data from the Alpha Vantage API and performs the calculations of the technical indicators. The package [MSTest](https://www.nuget.org/packages/MSTest.TestFramework/2.2.10 ) has been used for unit testing. 
 
 ## Libraries and packages
-TODO
+[Alpha Vantage API](https://www.alphavantage.co/)
+[LiveCharts](https://www.nuget.org/packages/LiveCharts)
+[LiveCharts.Wpf](https://www.nuget.org/packages/LiveCharts.Wpf)
+[Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
+[MSTest](https://www.nuget.org/packages/MSTest.TestFramework)
