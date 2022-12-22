@@ -13,8 +13,8 @@ A<sub>n</sub> = the closing price of an asset at period *n* <br />
 Source: <br />
 https://www.investopedia.com/terms/s/sma.asp
 #### Example
-Insert screenshot and describe TODO
-2022-03-01 - 2022-12-17 CAT 
+![50-day_SMA_sample](https://user-images.githubusercontent.com/39235916/209172299-68df743e-5746-4f82-b8af-628e258192c9.PNG)
+
 ---
 
 ### 200-day SMA
