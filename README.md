@@ -6,7 +6,7 @@ The application displays a Open-high-low-close (OHLC) chart of the stock prices 
 
 As mentioned, the [Alpha Vantage API](https://www.alphavantage.co/documentation/) has been used for the stock data, and the package [LiveCharts](https://www.nuget.org/packages/LiveCharts) for the chart functionality. 
 
-
+![GIF showing demo of the application](https://github.com/Alex01234/StockVisualizer/blob/main/StockVisualizer_demo.gif?)
 
 ---
 ## Techical indicators
