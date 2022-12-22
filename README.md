@@ -14,21 +14,18 @@ Source: <br />
 https://www.investopedia.com/terms/s/sma.asp
 #### Example
 ![50-day_SMA_sample](https://user-images.githubusercontent.com/39235916/209172299-68df743e-5746-4f82-b8af-628e258192c9.PNG)
-
 ---
 
 ### 200-day SMA
 #### Description and formula
 The same formula is used as for 50-day SMA, but *n*=200 <br />
 #### Example
-Insert screenshot and describe TODO
-2022-03-01 - 2022-12-17 CAT 
+![200-day_SMA_sample](https://user-images.githubusercontent.com/39235916/209172390-7dbf703b-90c8-4d66-bf06-fb0a88e0f749.PNG)
 ---
 
 ### 50-day and 200-day SMA
 #### Example
-Insert screenshot and describe TODO
-2022-03-01 - 2022-12-17 CAT 
+![50_and_200-day_SMA_sample](https://user-images.githubusercontent.com/39235916/209172465-1c4c699f-dd8e-4df1-8bc1-277e58a6b5a2.PNG)
 ---
 
 ### Bollinger bands, 20-day SMA, 2 standard deviations
@@ -45,8 +42,7 @@ Sources: <br />
 https://www.barchart.com/education/technical-indicators/moving_standard_deviation <br />
 https://thetradingbible.com/bollinger-bands-trading-strategy <br />
 #### Example
-Insert screenshot and describe TODO
-2022-01-01 - 2022-12-17 LMT 
+
 ---
 
 ### Chandelier Exit (long) 22 day
